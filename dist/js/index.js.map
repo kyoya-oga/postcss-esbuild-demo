@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../src/js/index.js"],
+  "sourcesContent": ["console.log(\"Hello from index.js\");\n"],
+  "mappings": "MAAA,QAAQ,IAAI,qBAAqB",
+  "names": []
+}
